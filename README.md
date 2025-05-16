@@ -27,4 +27,5 @@
 ### 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/srivijaya-irrinki-b297682bb/)
 - [Portfolio](https://jimin143.github.io/srivijaya/)
+- [portfolio-2](https://srivijaya-irrinki.github.io/)
 
